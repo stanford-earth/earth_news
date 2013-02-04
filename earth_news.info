@@ -1,4 +1,4 @@
-name = "SE News"
+name = "Stanford Earth News"
 description = "News content item for Stanford School of Earth Sciences"
 core = "6.x"
 package = "Earth"
