@@ -1,7 +1,7 @@
 name = "SE News"
 description = "News content item for Stanford School of Earth Sciences"
 core = "6.x"
-package = "Features"
+package = "Earth"
 version = "6.x-1.0-alpha2"
 project = "earth_news"
 dependencies[] = "content"
