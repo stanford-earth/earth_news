@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Earth News feature.
+ */
+
+include_once 'earth_news.features.inc';
